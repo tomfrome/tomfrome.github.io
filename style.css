@@ -1,11 +1,9 @@
 body {
   margin: 0 auto;
   max-width: 50em;
-  font-family: “Helvetica”, “Arial”, “Georgia”, sans-serif;
-  color: rgba(0, 200, 200, 0.7);
-  line-height: 3;
-  font-size: 30px;
-  padding: 4em 1em;
+  font: italic small-caps bold 24px Arial, sans-serif;
+  color: rgba(0, 200, 200, 0.7);  background-image: linear-gradient(white, grey);
+  background-repeat: no-repeat;
 }
 
 /* this is a comment */
